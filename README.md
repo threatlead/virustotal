@@ -1,4 +1,4 @@
-# ![VirusTotal](https://s13.postimg.org/ks23op4l3/Virus_Total-_Uplink-150x150.png) VirusTotal Module
+# ![VirusTotal](https://s13.postimg.org/i1srrzd6f/Virus_Total-_Uplink-150x150.png) VirusTotal Module
 
 ## Usage
 

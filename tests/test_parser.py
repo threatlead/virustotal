@@ -25,7 +25,6 @@ class ConnectTestSuite(unittest.TestCase):
 
     def test_query(self):
         if self._vt.is_private_api:
-            print('here')
             query = 'tag:email AND fs:2018-09-22T00:00:00+ AND fs:2018-09-22T03:00:00-'
             hashes, offset = self._vt.file_search(query, offset=None)
             self.assertGreater(len(hashes), 10, 'Invalid Query Result from VirusTotal.')
